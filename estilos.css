@@ -1,0 +1,14 @@
+.navbar {
+  color: rebeccapurple;
+
+  font-size: 32px;
+}
+ *{
+  color:black;
+  align-items: center;
+ }
+
+ #teste{
+  background: black;
+  color: white;
+ }
